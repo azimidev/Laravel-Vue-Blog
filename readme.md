@@ -9,7 +9,7 @@ Begin by cloning this repository to your machine, and installing all Composer & 
 
 2.
 ```bash
-git clone <THIS_REPOSITORY>
+git clone git@github.com:hassanazimi/Laravel-Vue-Blog.git
 cd blog && composer install && yarn install
 php artisan blog:install
 yarn dev
