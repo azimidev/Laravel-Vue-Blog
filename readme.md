@@ -17,7 +17,7 @@ yarn dev
 
 ### Step 2
 
-Next, boot up a server and visit your forum. If using a tool like Laravel Valet, of course the URL will default to `http://blog.test`.
+If using a tool like Laravel Valet, the URL will default to `http://blog.test`.
 
 1. Visit: `http://blog.test/register` to register a new forum account.
 2. Register a user with this email as an admin: `admin@gmail.com` and password can be anything.
