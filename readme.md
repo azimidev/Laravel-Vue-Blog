@@ -19,9 +19,9 @@ yarn dev
 
 If using a tool like Laravel Valet, the URL will default to `http://blog.test`.
 
-1. Visit: `http://blog.test/register` to register a new forum account.
+1. Visit: `http://blog.test/register` to register a new account.
 2. Register a user with this email as an admin: `admin@gmail.com` and password can be anything.
-3. Visit: `http://blog.test/admin/channels` or click on Add New Channel to seed your forum with one or more channels.
+3. Visit: `http://blog.test/admin/channels` or click on Add New Channel to seed the blog with one or more channels.
 4. Create a post by clicking on Add New Post
 
 ### Note
